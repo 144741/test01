@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa77797a-5909-47a8-94b8-af6cdaec1095" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Control$InsertHylinkAndBookMark.ic" NAME="InsertHylinkAndBookMark Coverage Results" MODIFIED="1604384432252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bs.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Control$CreateWord.ic" NAME="CreateWord Coverage Results" MODIFIED="1603093360702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bs.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Control" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bs/CreateWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6417">
+              <caret line="292" column="35" selection-start-line="292" selection-start-column="35" selection-end-line="292" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bs/TurnWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5290">
+              <caret line="242" column="52" selection-start-line="242" selection-start-column="52" selection-end-line="242" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bs/InsertHylinkAndBookMark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="98" column="55" selection-start-line="98" selection-start-column="55" selection-end-line="98" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/IReplacingCallback.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>options</find>
+      <find>options1</find>
+      <find>rege</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/bs/CreatWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bs/Aaa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bs/CreateWordHyperlinks.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bs/Service/AsposeUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bs/Service/AsposeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bs/CreateWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bs/TurnWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bs/InsertHylinkAndBookMark.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Control" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="110" />
+    <option name="y" value="130" />
+    <option name="width" value="1750" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bs" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608014961972" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Aspose.PDF-for-Java-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.54252875" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.InsertHylinkAndBookMark">
+    <configuration name="CreateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bs.CreateWord" />
+      <module name="Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateWordHyperlinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bs.CreateWordHyperlinks" />
+      <module name="Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertHylinkAndBookMark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bs.InsertHylinkAndBookMark" />
+      <module name="Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurnWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bs.TurnWord" />
+      <module name="Control" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InsertHylinkAndBookMark" />
+        <item itemvalue="Application.TurnWord" />
+        <item itemvalue="Application.CreateWord" />
+        <item itemvalue="Application.CreateWordHyperlinks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa77797a-5909-47a8-94b8-af6cdaec1095" name="Default Changelist" comment="" />
+      <created>1603087413259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603087413259</updated>
+      <workItem from="1603087416186" duration="8571000" />
+      <workItem from="1603096238257" duration="1575000" />
+      <workItem from="1603097839814" duration="13000" />
+      <workItem from="1603097951035" duration="610000" />
+      <workItem from="1603107425524" duration="130000" />
+      <workItem from="1603107583692" duration="4851000" />
+      <workItem from="1603156974943" duration="7414000" />
+      <workItem from="1603170341531" duration="1163000" />
+      <workItem from="1603171621909" duration="10554000" />
+      <workItem from="1603244006984" duration="18792000" />
+      <workItem from="1603285263927" duration="1610000" />
+      <workItem from="1603328099155" duration="5160000" />
+      <workItem from="1603338063331" duration="15486000" />
+      <workItem from="1603415071419" duration="11566000" />
+      <workItem from="1603674492957" duration="2524000" />
+      <workItem from="1603846018281" duration="26475000" />
+      <workItem from="1603885390978" duration="3035000" />
+      <workItem from="1603932944956" duration="1541000" />
+      <workItem from="1603935729714" duration="1612000" />
+      <workItem from="1603937762385" duration="4815000" />
+      <workItem from="1603961912840" duration="1300000" />
+      <workItem from="1603969366115" duration="2928000" />
+      <workItem from="1604019897231" duration="25595000" />
+      <workItem from="1604048023755" duration="1057000" />
+      <workItem from="1604278770358" duration="13502000" />
+      <workItem from="1604366682285" duration="7611000" />
+      <workItem from="1604384402119" duration="7983000" />
+      <workItem from="1604451628413" duration="5346000" />
+      <workItem from="1604537910841" duration="596000" />
+      <workItem from="1604550893137" duration="2086000" />
+      <workItem from="1604626847662" duration="79000" />
+      <workItem from="1608013282907" duration="1685000" />
+      <workItem from="1608022896150" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="197360000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.502008" side_tool="true" weight="0.22453083" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.498998" visible="true" weight="0.21179625" />
+      <window_info id="Structure" order="6" sideWeight="0.501002" side_tool="true" weight="0.22453083" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.19377652" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" weight="0.3493635" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.41584158" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="10" sideWeight="0.49932975" weight="0.086280055" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31541726" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven" order="7" sideWeight="0.49798387" weight="0.2272118" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5020161" side_tool="true" visible="true" weight="0.22070312" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.502008" side_tool="true" weight="0.22453083" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.498998" visible="true" weight="0.27010724" />
+      <window_info id="Structure" order="6" sideWeight="0.501002" side_tool="true" weight="0.22453083" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.19377652" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50067025" side_tool="true" weight="0.3493635" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.41584158" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" sideWeight="0.49932975" visible="true" weight="0.3069307" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31541726" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven" order="7" sideWeight="0.49798387" weight="0.2272118" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5020161" side_tool="true" visible="true" weight="0.22070312" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bs/CreateWord.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bs/TurnWord.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bs/TurnWord.java</url>
+          <line>233</line>
+          <properties class="com.bs.TurnWord.ReplaceWithHtmlEvaluator" method="replacing">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://MAVEN/com.bs:Control:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.bs:Control:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="500.0" y="90.0">com.bs:Control:1.0-SNAPSHOT</node>
+            <node x="964.0" y="0.0">com.aspose:aspose-words:jar:jdk17:20.6</node>
+            <node x="756.0" y="0.0">com.aspose:aspose-words-jdk17:jar:jdk17:20.6</node>
+            <node x="548.0" y="0.0">com.aspose:aspose-words-jdk17:jar:jdk17:20.6.0.0</node>
+            <node x="340.0" y="0.0">com.aspose.words:aspose-words-jdk17:jar:jdk17:20.6.0.0</node>
+            <node x="170.0" y="0.0">com.aspose.words:aspose-words-jdk17:jar:20.6.0.0</node>
+            <node x="0.0" y="0.0">com.aspose.words:aspose-words-jdk17:jar:14.6.0.0</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.bs:Control:1.0-SNAPSHOT" target="com.aspose.words:aspose-words-jdk17:jar:20.6.0.0">
+              <point x="-19.0" y="-15.0" />
+              <point x="519.0" y="60.0" />
+              <point x="245.0" y="60.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.bs:Control:1.0-SNAPSHOT" target="com.aspose.words:aspose-words-jdk17:jar:jdk17:20.6.0.0">
+              <point x="-6.333333333333371" y="-15.0" />
+              <point x="531.6666666666666" y="50.0" />
+              <point x="434.0" y="50.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.bs:Control:1.0-SNAPSHOT" target="com.aspose.words:aspose-words-jdk17:jar:14.6.0.0">
+              <point x="-31.66666666666663" y="-15.0" />
+              <point x="506.33333333333337" y="70.0" />
+              <point x="75.0" y="70.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.bs:Control:1.0-SNAPSHOT" target="com.aspose:aspose-words:jar:jdk17:20.6">
+              <point x="31.66666666666663" y="-15.0" />
+              <point x="569.6666666666666" y="70.0" />
+              <point x="1039.5" y="70.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.bs:Control:1.0-SNAPSHOT" target="com.aspose:aspose-words-jdk17:jar:jdk17:20.6.0.0">
+              <point x="6.333333333333371" y="-15.0" />
+              <point x="544.3333333333334" y="50.0" />
+              <point x="642.0" y="50.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="com.bs:Control:1.0-SNAPSHOT" target="com.aspose:aspose-words-jdk17:jar:jdk17:20.6">
+              <point x="19.0" y="-15.0" />
+              <point x="557.0" y="60.0" />
+              <point x="850.0" y="60.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6299559471365639" x="371.0" y="106.0" />
+          <SelectedNodes>
+            <node>com.bs:Control:1.0-SNAPSHOT</node>
+            <node>com.aspose.words:aspose-words-jdk17:jar:14.6.0.0</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bs/CreateWordHyperlinks.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Control.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/Bookmark.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/FieldLink.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LogCenter-single-general/src/main/java/com/bs/LogcenterApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/util/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1078">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/LineSpacingRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-876">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/LineStyle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4832">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/ArrowWidth.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-529">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/ArrowType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/AutoFitBehavior.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/IDocumentReaderPlugin.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/FindReplaceOptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bs/Service/AsposeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/DocumentBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3727">
+          <caret line="460" column="17" selection-start-line="460" selection-start-column="17" selection-end-line="460" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bs/Service/AsposeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="260" column="1" selection-start-line="260" selection-start-column="1" selection-end-line="260" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/LineNumberRestartMode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/FindReplaceDirection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_261/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/ReplacingArgs.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bs/CreateWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6417">
+          <caret line="292" column="35" selection-start-line="292" selection-start-column="35" selection-end-line="292" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bs/TurnWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5290">
+          <caret line="242" column="52" selection-start-line="242" selection-start-column="52" selection-end-line="242" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/daoword/lib/aspose-words-20.6-jdk17.jar!/com/aspose/words/IReplacingCallback.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bs/InsertHylinkAndBookMark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="98" column="55" selection-start-line="98" selection-start-column="55" selection-end-line="98" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.54252875" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.54252875" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.54252875" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.54252875" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Control</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.54252875" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>aspose-words-20.6-jdk17</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.54252875" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
